@@ -13,25 +13,24 @@
 
 ### ✨ [Demo](https://demo.easyrun.os4run.io/)
 
-## Install
+## INSTALL
 
 ```sh
 yarn install
 ```
 
-## Usage
-
+## USAGE
 ```sh
 yarn run start
 ```
 
-## Run tests
-
+## RUN TESTS
 ```sh
 yarn run test
 ```
 
-## Author
+## AUTHOR
+r
 
 👤 **Pierre BOURGEOIS**
 
